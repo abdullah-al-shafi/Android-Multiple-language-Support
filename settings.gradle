@@ -1,0 +1,2 @@
+rootProject.name='Multiple language Support'
+include ':app'
